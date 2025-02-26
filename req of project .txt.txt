@@ -1,0 +1,24 @@
+Assignment: AI-Powered CCTV
+Monitoring & Reporting System
+Objective
+Your task is to build an AI-powered CCTV monitoring system that can analyze video
+feeds, detect specific activities or anomalies, and generate structured reports. This will
+test your ability to:
+• Process real-time video streams with Python & AI
+• Implement an AI agent architecture using LangGraph
+• Detect objects and actions in video using computer vision (e.g., OpenCV,
+YOLO, or a Vision Transformer)
+• Generate structured reports based on detected activities
+User Story: AI CCTV Monitoring for a Retail Store
+Background
+A large retail chain, SmartMart, has multiple CCTV cameras monitoring their stores.
+They want an AI-powered system to:
+1. Detect unauthorized access (e.g., customers entering staff-only areas).
+2. Monitor queue lengths at checkout counters to optimize staffing.
+3. Identify suspicious behavior (e.g., loitering near high-value products).
+4. Generate daily reports summarizing events and store activity.
+Instead of relying on security personnel watching hours of footage, SmartMart wants an
+automated AI system that:
+• Analyzes the live CCTV feed
+• Classifies events in real-time
+• Generates structured reports for store managers
