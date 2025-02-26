@@ -1,1 +1,52 @@
+# Python Bytecode
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+
+# Virtual Environments
+env/
 venv/
+.venv/
+
+# Jupyter Notebook Checkpoints
+.ipynb_checkpoints
+
+# Log files
+*.log
+
+# Configuration files for IDEs
+.vscode/
+.idea/
+
+# Dependency directories
+node_modules/
+pip-wheel-metadata/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Pytest
+*.pytest_cache/
+
+# PyInstaller
+dist/
+build/
+*.spec
+
+# JetBrains IDE specific files
+.idea/
+
+# Environment Variables (if you store them in a .env file)
+.env
+
+# YOLO related files
+weights/
+models/
+
+# Reports directory (if reports should not be versioned)
+reports/
+
+# Temporary files
+*.tmp
